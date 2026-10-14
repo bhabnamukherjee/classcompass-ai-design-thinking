@@ -81,6 +81,3 @@ flowchart LR
 ## My role
 <!-- Edit to describe your exact part -->
 Team of two with Katelyn Butts. We developed and co-presented the solution together.
-
-## Files
-- [`presentation.pdf`](presentation.pdf): final pitch deck
